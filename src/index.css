@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Make sure the page background follows Tailwind */
+html, body, #root {
+  height: 100%;
+}
